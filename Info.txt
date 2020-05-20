@@ -1,0 +1,1 @@
+Besvarelser finner du i README.md og i kommentarer og kode i java klassene i denne mappa.
